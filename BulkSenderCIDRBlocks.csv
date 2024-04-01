@@ -1,5 +1,4 @@
 ﻿Company,ARIN Handle,CIDR
-MailGun,MT-757,2620:23:A000::/48
 MailGun,MT-757,141.193.32.0/23
 MailGun,MT-757,143.55.224.0/20
 MailGun,MT-757,159.112.240.0/20
@@ -14,7 +13,6 @@ Rocket Science Group,INTUI-77,198.2.128.0/18
 Rocket Science Group,INTUI-77,199.26.164.0/24
 Rocket Science Group,INTUI-77,199.33.145.0/24
 Rocket Science Group,INTUI-77,205.201.128.0/20
-SendGrid,SENDG-12,2604:A080::/32
 SendGrid,SENDG-12,149.72.0.0/16
 SendGrid,SENDG-12,167.89.0.0/17
 SendGrid,SENDG-12,168.245.0.0/17
